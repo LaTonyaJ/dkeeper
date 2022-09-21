@@ -1,5 +1,5 @@
 import React from "react";
-import WbIncandescentIcon from '@mui/icons-material/WbIncandescent';
+import WbIncandescentIcon from '@material-ui/icons/WbIncandescent';
 
 function Header() {
   return (
